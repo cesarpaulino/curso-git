@@ -1,0 +1,36 @@
+body{
+    /*Establecer el color del fondo*/
+    background-color: #1d2127;
+    /*Establecer el color de la letra*/
+    color: #fff;
+    /*Establecer la fuente de la letra*/
+    font-family: "Overpass Mono", monospace;
+    /*Establecer el espacio de relleno requerido por todos los lados de un elemento*/
+    padding: 0;
+    /*Establecer el margen entre el contenido principal de una pagina y los bordes de la misma.*/
+    margin: 0;
+} 
+
+h1{
+    /*Establecer el margen entre el contenido principal de una pagina y los bordes de la misma.*/
+    margin: 0 0 0 8px;
+    /*Establecer el espacio de relleno requerido por todos los lados de un elemento*/
+    padding-top: 8px;
+}
+
+.bar{
+    /*Establecer el color del fondo*/
+    background-color: #464b55;
+    /*Establecer el espacio de relleno requerido por todos los lados de un elemento*/
+    padding: 10px;
+   /*Nos permite establecer cómo crece o decrece un elemento flexible dentro del contenedor  */
+    display: flex;
+
+}
+
+.logo{
+    /* Nos permite especifica el anchura del area de contenido de un elemento */
+    width: 50px;
+    /* Nos permite especifica la altura del area de contenido de un elemento */
+    height: 50px;
+}
