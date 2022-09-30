@@ -19,7 +19,7 @@ Por ejemplo antes se trabajaba de la siguiente manera:
 - trabajo casi final final
 - trabajo final ahora si es el bueno
 
-<img src="https://user-images.githubusercontent.com/25986679/193332392-b10e17d4-4915-4a14-aa90-ac3f8188a4b2.png" width="600" height="300"><br>
+<img alt="trabajo png" src="https://user-images.githubusercontent.com/25986679/193332392-b10e17d4-4915-4a14-aa90-ac3f8188a4b2.png" width="600" height="300"><br>
 
 
 
@@ -27,5 +27,7 @@ Por ejemplo antes se trabajaba de la siguiente manera:
 - IJDR
 - MJDR
 - EAPD
+
+<em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludar<b>¡estaré feliz de conocerte más!</b> 👀 </em>
 
 ⭐️ From [cesarpaulino](https://github.com/cesarpaulino)
