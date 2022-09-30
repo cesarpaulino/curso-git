@@ -12,13 +12,18 @@ Es un sistemas de control de versiones que nos permite automatizar los trabajos 
 
 Por ejemplo antes se trabajaba de la siguiente manera:
 
-<samp>trabajo<br>
-trabajo final<br>
-trabajo final final<br> 
-trabajo casi final final<br> 
-trabajo final ahora si es el bueno<br>
-<samp>
+#### Typing.. Mode 🎰
+- [trabajo]
+- [trabajo final]
+- [trabajo final final]
+- [trabajo casi final final]
+- [trabajo final ahora si es el bueno]
 
-<a href="mailto:cesar_paulino@icloud.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+
+<img src="https://github.com/cesarpaulino/curso-git/issues/2#issue-1392796603" />
+
+
+## Special Thanks 🙇
+- IJDR
 
 ⭐️ From [cesarpaulino](https://github.com/cesarpaulino)
