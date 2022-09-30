@@ -1,6 +1,6 @@
-# Curso Git
+# Curso básico de Git
 
-Curso de Git de Cesar Paulino
+### 💻 Descripción
 
 Aprenderas conceptos básico y sobre todo como crear tu repositorio de manera confiable con conexión SSH para brindar una mejor seguridad a tus repos.
 
@@ -19,11 +19,13 @@ Por ejemplo antes se trabajaba de la siguiente manera:
 - trabajo casi final final
 - trabajo final ahora si es el bueno
 
+<img src="https://user-images.githubusercontent.com/25986679/193332392-b10e17d4-4915-4a14-aa90-ac3f8188a4b2.png" width="600" height="300"><br>
 
-![Captura de pantalla (37)](https://user-images.githubusercontent.com/25986679/193332392-b10e17d4-4915-4a14-aa90-ac3f8188a4b2.png)
 
 
 ## Special Thanks 🙇
 - IJDR
+- MJDR
+- EAPD
 
 ⭐️ From [cesarpaulino](https://github.com/cesarpaulino)
