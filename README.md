@@ -30,10 +30,12 @@ Por ejemplo antes se trabajaba de la siguiente manera:
 
 <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludar<b>¡estaré feliz de conocerte más!</b> 👀 </em>
 
+```
 {
   "firstName": "Cesar",
   "lastName": "Paulino",
   "age": 36
 }
+```
 
 ⭐️ From [cesarpaulino](https://github.com/cesarpaulino)
